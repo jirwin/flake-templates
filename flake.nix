@@ -16,6 +16,11 @@
         description = "Base template";
       };
 
+      cpp = {
+        path = ./cpp;
+        descriptiopn = "C++ template";
+      };
+
       go = {
         path = ./go;
         description = "Golang template";
