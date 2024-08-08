@@ -18,6 +18,12 @@
           go
           gopls
           gotools
+          go-outline
+          gopkgs
+          gocode-gomod
+          godef
+          golint
+          just
         ];
       };
 
